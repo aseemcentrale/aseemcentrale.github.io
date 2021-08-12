@@ -1,0 +1,19 @@
+nav{
+    background: none; 
+    background-repeat: no-repeat;
+    background-position: right;
+
+    background-size: 800px 1000px;
+    border-bottom: 10px solid blue;
+    padding-bottom: 10px;
+    
+    display: flex;}
+
+.example-image{
+    position: relative;
+    padding-top: 20px;
+    resize: 10px;
+    height: 100px;
+    padding-left: 20px;
+    
+}
